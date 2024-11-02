@@ -1,5 +1,9 @@
 com\example\demo\DemoApplication.class
 com\example\demo\Models\UserModel.class
+com\example\demo\Controllers\S3Controller.class
+com\example\demo\Services\S3ServiceImpl.class
+com\example\demo\Repositorys\IUserRepository.class
+com\example\demo\MyS3Client.class
 com\example\demo\Controllers\UserController.class
 com\example\demo\Services\UserService.class
-com\example\demo\Repositorys\IUserRepository.class
+com\example\demo\Services\S3Service.class
