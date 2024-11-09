@@ -29,5 +29,4 @@ public class userDTO {
 
     private String fechaVencimiento;
 
-
 }

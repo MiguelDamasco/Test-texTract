@@ -25,6 +25,7 @@ public class S3Controller {
 
     @PostMapping("/upload")
     public String uploadFile(@RequestParam("file") MultipartFile file) throws IOException {
+        System.out.println("file: " + file);
         return this.s3Service.uploadFile(file);
     }
 
