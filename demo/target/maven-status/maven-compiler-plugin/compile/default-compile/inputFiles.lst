@@ -1,9 +1,16 @@
 C:\demo (1)\demo\src\main\java\com\example\demo\Controllers\S3Controller.java
+C:\demo (1)\demo\src\main\java\com\example\demo\Controllers\textractController.java
 C:\demo (1)\demo\src\main\java\com\example\demo\Controllers\UserController.java
 C:\demo (1)\demo\src\main\java\com\example\demo\DemoApplication.java
+C:\demo (1)\demo\src\main\java\com\example\demo\DTO\TextDTO.java
+C:\demo (1)\demo\src\main\java\com\example\demo\DTO\userDTO.java
 C:\demo (1)\demo\src\main\java\com\example\demo\Models\UserModel.java
 C:\demo (1)\demo\src\main\java\com\example\demo\MyS3Client.java
 C:\demo (1)\demo\src\main\java\com\example\demo\Repositorys\IUserRepository.java
+C:\demo (1)\demo\src\main\java\com\example\demo\RestTemplateConfiguration.java
+C:\demo (1)\demo\src\main\java\com\example\demo\Services\AlgoritmoConersion.java
 C:\demo (1)\demo\src\main\java\com\example\demo\Services\S3Service.java
 C:\demo (1)\demo\src\main\java\com\example\demo\Services\S3ServiceImpl.java
+C:\demo (1)\demo\src\main\java\com\example\demo\Services\textService.java
 C:\demo (1)\demo\src\main\java\com\example\demo\Services\UserService.java
+C:\demo (1)\demo\src\main\java\com\example\demo\WebConfig.java
